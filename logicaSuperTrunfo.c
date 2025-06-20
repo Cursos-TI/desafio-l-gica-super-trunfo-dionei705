@@ -40,4 +40,3 @@ int main() {
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
 
     return 0;
-}
